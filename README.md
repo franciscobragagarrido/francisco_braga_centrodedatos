@@ -12,5 +12,7 @@ la gestion de la seguridad se vuelve mas organizada y segura.
 
 
 
-                                                          by ### Francisco BragaSee [README.md](https://github.com/franciscobragagarrido/francisco_braga_centrodedatos.git/README.md)  
+### by Francisco Braga
+
+See [README.md](https://github.com/franciscobragagarrido/francisco_braga_centrodedatos.git/README.md)  
 
