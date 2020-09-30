@@ -1,8 +1,9 @@
-# Lo mas relevante de CISCO DATA CENTER ARCHITECTURE
+# Lo más relevante de CISCO DATA CENTER ARCHITECTURE
 
-- Lo mas importante de la arquitectura de cisco para la administracion y centralizacion de la infraestructura, es que podemos tener una administracion simple con la mayor seguridad, poder configurar de manera agil y sencilla la integracion con las diferentes nubes y optimizar los recusos que tenemos segun el analisis del comportamiento de la aplicacion y/o infraestructura que se tenga.
+- Lo más importante de la arquitectura de cisco para la administración y centralización de la infraestructura, es que podemos tener una administración simple con la mayor seguridad, poder configurar de manera ágil y sencilla la integración con las diferentes nubes y optimizar los recursos que tenemos según el análisis del comportamiento de la aplicación y/o infraestructura que se tenga.
 
-- En resumen, se puede definir que CISCO DATA CENTER ARCHITECTURE es simple, agil, seguro y optimizado en cualquier nube.
+- En resumen, se puede definir que CISCO DATA CENTER ARCHITECTURE es simple, ágil, seguro y optimizado en cualquier nube.
 
 
 ### by Francisco Braga
+
